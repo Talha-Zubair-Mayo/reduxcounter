@@ -1,22 +1,26 @@
-Hi there I am Junaid Qureshi, Full Stack MERN and Gatsby Developer from Pakisan 🇵🇰 👋
-@website : https://developer-junaid.web.app/
-🏛️ IT Student, at University Of Sindh
-✔️ Full Stack Developer | React, Gatsby Developer
-📫 How to reach me:
+### Hi there I am Junaid Qureshi, Full Stack MERN and Gatsby Developer from Pakisan :pakistan: 👋
+## @website : https://developer-junaid.web.app/
 
-:octocat: Github => 🔗 https://github.com/developer-junaid/
-🔵 Facebook: => 🔗 https://www.facebook.com/JunaidQureshi6/
-🟣 LinkedIn: => 🔗 https://www.linkedin.com/in/developer-junaid
-🔷 Facebook (Page): => 🔗 https://www.facebook.com/developerJunaid
-🏅 Projects :
-Nike Shoe Store (Website) => 🔗 https://nike-shoe-store.netlify.app/
-Corona Virus Tracker (Web App) => 🔗 https://online-corona-tracker.web.app/
-"PWA" Online Quiz (Web App) => 🔗 https://our-quiz.web.app/
-Animated DevFolio => 🔗 https://developer-junaid.web.app/
-Space-X launches (Website) => 🔗 https://launches-spacex.web.app/
-Diaries Manager (Web App) => 🔗 https://diaries-manager.web.app/
-Gatsby Blog (Website) => 🔗 https://techberg-blog.netlify.app/
-Mobile First (Landing Page) => 🔗 https://mobile-first-design.netlify.app/
-Gatsby Portfolio (Website) => 🔗 https://gatsbyjs-portfolio-site.netlify.app/
-React Todo List (Web App) => 🔗 https://todo-taskbox.web.app/
-Uber Eats (Landing Page) => 🔗 https://uber-eats-landing-page.netlify.app/
+## :classical_building: IT Student, at University Of Sindh
+## :heavy_check_mark: Full Stack Developer | React, Gatsby Developer
+
+
+- 📫 How to reach me:  
+
+- - :octocat: Github              => :link:	https://github.com/developer-junaid/
+- - :large_blue_circle: Facebook: => :link:	https://www.facebook.com/JunaidQureshi6/
+- - :purple_circle: LinkedIn:     => :link:	https://www.linkedin.com/in/developer-junaid
+- - :large_blue_diamond: Facebook (Page): => :link:	https://www.facebook.com/developerJunaid
+
+### :medal_sports: Projects :
+- 	 **Nike Shoe Store (Website)** => :link:	https://nike-shoe-store.netlify.app/
+- 	**Corona Virus Tracker (Web App)** => :link:	https://online-corona-tracker.web.app/
+- **"PWA" Online Quiz (Web App)**      => :link: https://our-quiz.web.app/
+-  **Animated DevFolio**         => :link: https://developer-junaid.web.app/
+-   **Space-X launches (Website)** =>  :link: https://launches-spacex.web.app/
+-  **Diaries Manager (Web App)** =>  :link: https://diaries-manager.web.app/
+-  **Gatsby Blog (Website)**      => :link: https://techberg-blog.netlify.app/
+-  **Mobile First (Landing Page)**      => :link: https://mobile-first-design.netlify.app/
+-  **Gatsby Portfolio (Website)**      => :link: https://gatsbyjs-portfolio-site.netlify.app/
+-  **React Todo List (Web App)**     => :link: https://todo-taskbox.web.app/
+-  **Uber Eats (Landing Page)**      => :link: https://uber-eats-landing-page.netlify.app/
